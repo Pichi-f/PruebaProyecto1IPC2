@@ -1,0 +1,89 @@
+<biblioteca>
+    <cancion nombre="Attack on bangtan">
+	<artista>"BTS"</artista>
+	<album>"O!RUL,2?"</album>
+	<imagen>"1"</imagen>
+	<ruta>"mp3"</ruta>
+    </cancion>
+    <cancion nombre="the middle">
+	<artista>"Jimmy Eat World"</artista>
+        <album>"Bleed American"</album>
+        <imagen>2</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Perfectly Perfect">
+        <artista>"Simple plan"</artista>
+        <imagen>3</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+        <cancion nombre="Bohemian Rhapsody">
+        <artista>"Queen"</artista>
+        <album>"A Night at the Opera"</album>
+        <imagen>4</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Smells Like Teen Spirit">
+        <artista>"Nirvana"</artista>
+        <album>"Nevermind"</album>
+        <imagen>5</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Attack on bangtan">
+	<artista>"BTS"</artista>
+	<album>"O!RUL,2?"</album>
+	<imagen>"1"</imagen>
+	<ruta>"mp3"</ruta>
+    </cancion>
+    <cancion nombre="the middle">
+	<artista>"Jimmy Eat World"</artista>
+        <album>"Bleed American"</album>
+        <imagen>2</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Perfectly Perfect">
+        <artista>"Simple plan"</artista>
+        <imagen>3</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+        <cancion nombre="Bohemian Rhapsody">
+        <artista>"Queen"</artista>
+        <album>"A Night at the Opera"</album>
+        <imagen>4</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Smells Like Teen Spirit">
+        <artista>"Nirvana"</artista>
+        <album>"Nevermind"</album>
+        <imagen>5</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Attack on bangtan">
+	<artista>"BTS"</artista>
+	<album>"O!RUL,2?"</album>
+	<imagen>"1"</imagen>
+	<ruta>"mp3"</ruta>
+    </cancion>
+    <cancion nombre="the middle">
+	<artista>"Jimmy Eat World"</artista>
+        <album>"Bleed American"</album>
+        <imagen>2</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Perfectly Perfect">
+        <artista>"Simple plan"</artista>
+        <imagen>3</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+        <cancion nombre="Bohemian Rhapsody">
+        <artista>"Queen"</artista>
+        <album>"A Night at the Opera"</album>
+        <imagen>4</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+    <cancion nombre="Smells Like Teen Spirit">
+        <artista>"Nirvana"</artista>
+        <album>"Nevermind"</album>
+        <imagen>5</imagen>
+        <ruta>mp3</ruta>
+    </cancion>
+</biblioteca>
